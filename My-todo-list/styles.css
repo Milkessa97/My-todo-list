@@ -1,0 +1,67 @@
+body{
+    background-color: #a9cfec;
+}
+#title{
+    display: flex;
+    justify-content: center;
+}
+table{
+    width: 70%;
+    margin-top: 1.5em;
+    margin-left: 15%;
+    margin-bottom: 3%;
+}
+#layout td:nth-child(2),#layout td:nth-child(3) {
+    text-align: center;
+}
+#head{
+    background-color: #606f69;
+    height: 2rem;
+}
+#layout td:nth-child(1){
+    background-color: #ffffff;
+    width: 60%;
+}
+#layout td:nth-child(2){
+    background-color: #dfdfdf;
+}
+#layout td:nth-child(3){
+    width: 6em;
+    background-color: #ffffff;
+}
+#taskForm{
+    width: 50%;
+    background-color: #f3f3e3;
+    padding: 1em;
+    border-radius: 0.5rem;
+    margin-left: 25%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto;
+    gap: 0.4rem;
+}
+#taskInput{
+    grid-row: 1/span 2;
+    background-color: #f3f3e3;
+    border-radius: 0.5em;
+    border: 0.2rem solid black;
+}
+#deadlineInput{
+    background-color: #f3f3e3;
+    border: 0.2rem solid black;
+    border-radius: 0.5em;
+}
+#addBtn{
+    background-color: #606f69;
+    width: 6em;
+    border-radius: 0.6em;
+    border: 0.2rem solid black;
+}
+.editBtn,.deleteBtn{
+    background-color: #606f69;
+    border-radius: 0.6em;
+    border: 0.2rem solid black;
+}
+#modal{
+    z-index: -1;
+}

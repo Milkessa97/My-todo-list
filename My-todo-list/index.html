@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My To-do list</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1 id="title">My To-do list</h1>  
+    <form id="taskForm">
+        <textarea id="taskInput" placeholder="Task" rows="4" required></textarea>
+        <input type="date" id="deadlineInput" required>
+        <button type="submit" id="addBtn"><img src="images/upload.svg" alt="icon"></button>
+    </form>
+    <table id="myTable">
+        <thead id="head">
+            <tr>
+                <th>Task</th>
+                <th>Deadline</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody id="layout"></tbody>
+    </table>
+    <script src="index.js"></script>
+</body>
+</html>
