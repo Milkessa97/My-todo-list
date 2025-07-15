@@ -28,7 +28,7 @@ A simple and interactive **To-do List Web App** built using **HTML, CSS, and Jav
 
 * **CSS3**
 
-* **JavaScript (Vanilla)**  
+* **JavaScript**  
   
 
 ---
