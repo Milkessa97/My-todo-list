@@ -53,8 +53,8 @@ A simple and interactive **To-do List Web App** built using **HTML, CSS, and Jav
   * **Deadline**  
   * **Actions** (Edit & Delete icons)
 
-  !(screenshots/Screenshot 202025-07-14 20231755.png)
-  !(screenshots/Screenshot 202025-07-14 20231915.png)
+  ![To-Do App Screenshot](screenshots/Screenshot%202025-07-14%20231755.png)
+  ![To-Do App Screenshot](screenshots/Screenshot%202025-07-14%20231915.png)
 
 * Clicking **Edit**:
 
@@ -62,9 +62,9 @@ A simple and interactive **To-do List Web App** built using **HTML, CSS, and Jav
 
   * Replaces the Edit icon with a **Save** icon
 
-  !(screenshots/Screenshot 202025-07-14 20231934.png)
+  ![To-Do App Screenshot](screenshots/Screenshot%202025-07-14%20231934.png)
 
-  !(screenshots/Screenshot 202025-07-14 20232019.png)
+  ![To-Do App Screenshot](screenshots/Screenshot%202025-07-14%20232019.png)
 
 * Clicking **Save**:
 
@@ -72,12 +72,12 @@ A simple and interactive **To-do List Web App** built using **HTML, CSS, and Jav
 
   * Reverts the icon back to **Edit**
 
-  !(screenshots/Screenshot 202025-07-14 20232028.png)
+  ![To-Do App Screenshot](screenshots/Screenshot%202025-07-14%20232028.png)
 
 * **Delete button:**  
   * **Instantly removes the task row from the table**
 
-  ![(screenshots/Screenshot 202025-07-14 20232037.png)
+  ![To-Do App Screenshot](screenshots/Screenshot%202025-07-14%20232037.png)
 
 ---
 
