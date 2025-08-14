@@ -24,12 +24,19 @@ This app lets users add, delete, and mark tasks as complete using a clean, respo
   Folder Structure:
 
 src/
+
   ├── components/
+  
   │     ├── TaskItem.tsx
+  
   │     └── TaskList.tsx
+  
   ├── App.tsx
+  
   ├── main.tsx
+  
   └── App.css
+  
 
 📦 Installation & Setup
   1. Clone the repository
