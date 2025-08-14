@@ -33,15 +33,19 @@ src/
 
 📦 Installation & Setup
   1. Clone the repository
+
 git clone https://github.com/yourusername/my-todo-list.git
   
   2. Go into the project directory
+
 cd my-todo-list
   
   4. Install dependencies
+
 npm install
   
   5. Start the development server
+
 npm run dev
 
 📖 How It Works
